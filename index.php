@@ -25,19 +25,7 @@ if(isset($_GET['link'])){
     }
 }
 $selc=array("","","","","","","","","","","","");
-if($pag=='home'){
-    $selc[0]="selected";
-}else if($pag=='nosotros'){
-    $selc[1]="selected";
-}else if($pag=='servicios'){
-    $selc[2]="selected";
-}else if($pag=='blog'){
-    $selc[3]="selected";
-}else if($pag=='contacto'){
-    $selc[4]="selected";
-}else{
-    $selc[10]="selected";
-}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
