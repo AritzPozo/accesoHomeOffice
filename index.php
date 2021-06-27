@@ -1,5 +1,5 @@
 <?php
-include("sys/bd.php");
+
 $pag='home';
 $isArticulo=false;
 if(isset($_GET['link'])){
