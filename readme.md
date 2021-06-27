@@ -1,8 +1,8 @@
 # Proyecto Innosocial: Acceso al home office
 ## Propuesta nombre:
-1. 
-2.
-3.
+1. accesa mx
+2. remoto mx
+3. home office mx
 4.
 5.
 6.
