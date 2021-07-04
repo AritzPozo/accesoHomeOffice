@@ -21,6 +21,7 @@
         <a href='/Blog'><div class='menuopt <?php echo $selc[2];?>'>Blog</div></a>
         <a href='/Noticias'><div class='menuopt <?php echo $selc[3];?>'>Noticias</div></a>
         <a href='/Login'><div class='menuopt <?php echo $selc[4];?>'>Login</div></a>
+        <a href='/Consejos'><div class='menuopt <?php echo $selc[5];?>'>Consejos</div></a>
 
     </div>
 </div>
@@ -43,6 +44,7 @@
         <a href='/Blog'><div class='menuopt <?php echo $selc[2];?>'>Blog</div></a>
         <a href='/Noticias'><div class='menuopt <?php echo $selc[3];?>'>Noticas</div></a>
         <a href='/Login'><div class='menuopt <?php echo $selc[4];?>'>Login</div></a>
+        <a href='/Consejos'><div class='menuopt <?php echo $selc[5];?>'>Consejos</div></a>
 
     </menu>
 </header>
