@@ -64,8 +64,8 @@ Homework
 - Consultas: "Yahoo respuestas" hacia profesionales
  
 - Blog:
-  - Infografías
-  - Herramientas de organización
+  - Infografías.
+  - Herramientas de organización.
 
 -Sección informativa acerca de de como se a implementado  el Home office en distintos campos laborales.
 -Boton o link  para test de equipo y velocidad de internet y poder subir captura con los datos  y que esa misma información sirva a los ofertadores.
